@@ -1,9 +1,9 @@
 configReactDriveCms = {
-    author: 'Your Author Name',
+    author: 'Pierre',
     /**
      * Add the Id for the Google Sheets Dashboard file
      */
-    dashboardId: 'YOUR-GOOGLE-DRIVE-SHEET-DASHBOARD-ID',
+    dashboardId: '672416967',
     /**
      * Add the Url Id for the Google Web App Script to forward email from the Contact Form
      */
